@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DiegoAquicob
+- 👋  Hi, I’m @DiegoAquicob
 - 👀 I’m interested in Learning new stuffs and colaborate to make new things
 - 🌱 I’m currently learning jQuery/Vue/
 - 💞️ I’m looking to collaborate on Anything
